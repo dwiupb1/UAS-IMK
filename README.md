@@ -7,6 +7,7 @@ Nama :
 * Bagus Triarsa
 
 # File PPT
+* [UAS - Hydratio App Design.pptx](https://github.com/user-attachments/files/16084215/UAS.-.Hydratio.App.Design.pptx)
 
 
 # Link PROTOTYPE
